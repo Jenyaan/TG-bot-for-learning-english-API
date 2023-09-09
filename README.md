@@ -1,4 +1,6 @@
-# Clock module in console :clock1:
+# TG bot for learning english:
+
+<b>Бот парсит категории и карточки со словами с сайта, тесты можно остановить в любой момент, можно следить за прогресом </b>
 
 
 ### Languages and modules:
@@ -26,6 +28,11 @@ pip install aiogram
 ### Preview: 
 ![](https://github.com/Jenyaan/TG-bot-for-learning-english-API/blob/main/view%20(1).gif?raw=true)
 
+
 <div id="badges">
 
   <a href="https://t.me/jenya64">
+    <img src="https://img.icons8.com/?size=512&id=63306&format=png"width="40" height="40"/>
+  </a>
+
+</div>
