@@ -1,6 +1,6 @@
 from aiogram.types import ReplyKeyboardRemove, ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardMarkup, \
     InlineKeyboardButton
-
+import random 
 import requests
 import json
 from bs4 import BeautifulSoup
@@ -45,9 +45,7 @@ def url_vocabulary(categore, types):
             if i['CategoryName'] in categore and i['CategoryName'] not in info:
                 info.append(i['CategoryName'])
         print(info)
-        return info          
-
-                   
+        return info                    
 
 
 def url_cards(id):
@@ -57,3 +55,4 @@ def url_cards(id):
     for i in res:
         info[i['Question']] = i['Answer']
     return info
+
