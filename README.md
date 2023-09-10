@@ -6,8 +6,8 @@
 ### Languages and modules:
 
 * [Python](https://www.python.org/) <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="15" height="15"/>
-* Requests <img src="https://pypi.org/static/images/logo-small.2a411bc6.svg" width="15" height="15"/>
-* Aiogram <img src="https://pypi.org/static/images/logo-small.2a411bc6.svg" width="15" height="15"/>
+* [Requests](https://pypi.org/project/requests/) <img src="https://pypi.org/static/images/logo-small.2a411bc6.svg" width="15" height="15"/>
+* [Aiogram](https://aiogram.dev/) <img src="https://pypi.org/static/images/logo-small.2a411bc6.svg" width="15" height="15"/>
 
 
 
@@ -26,13 +26,21 @@ pip install aiogram
 ```
 
 ### Preview: 
-![](https://github.com/Jenyaan/TG-bot-for-learning-english-API/blob/main/view%20(1).gif?raw=true)
+![Preview](https://github.com/Jenyaan/TG-bot-for-learning-english-API/blob/main/view%20(1).gif?raw=true)
 
 
-<div id="badges">
 
-  <a href="https://t.me/jenya64">
-    <img src="https://img.icons8.com/?size=512&id=63306&format=png"width="40" height="40"/>
-  </a>
 
-</div>
+<a href="https://t.me/jenya64">
+  <img src="https://img.icons8.com/?size=512&id=63306&format=png"width="40" height="40"/> 
+  
+  My telegram
+</a>
+
+##
+
+<a href="https://t.me/english_voyage_bot">
+  <img src="https://img.icons8.com/?size=512&id=63306&format=png"width="40" height="40"/> 
+  
+  Telegram bot
+</a>
